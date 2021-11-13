@@ -13,6 +13,7 @@
 - 📫 How to reach me ...
   - add me on my disord RageWire#0001 to learn coding, ask for help, to learn how to join Rage or anything coding,
 ![codingwithrj's GitHub stats](https://github-readme-stats.vercel.app/api?username=codingwithrj&show_icons=true&theme=radical&count_private=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingwithrj&theme=buefy&layout=compact" />
 
 
 <!---
